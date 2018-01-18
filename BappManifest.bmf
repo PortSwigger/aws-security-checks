@@ -1,0 +1,11 @@
+Uuid: f078b9254eab40dc8c562177de3d3b2d
+ExtensionType: 2
+Name: AWS Security Checks
+RepoName: aws-security-checks
+ScreenVersion: 0.2
+SerialVersion: 0
+MinPlatformVersion: 0
+ProOnly: True
+Author: Filip Palian
+ShortDescription: Additional Scanner checks for AWS security issues.
+EntryPoint: aws.py
